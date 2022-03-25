@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Major: Global Business & Technology, Second Major: AI&Software**
+**Major: Global Business & Technology, Second Major: AI&Software, HUFS**
+
+Bachelor of Business Administration, Accounting
 
 
