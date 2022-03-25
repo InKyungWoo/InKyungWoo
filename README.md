@@ -1,4 +1,4 @@
-### Hi there 👋
+### Helloooooo :)
 
 <!--
 **InKyungWoo/InKyungWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Major in Global Business & Technology**
-**Minor in AI&Software**
+**Major: Global Business & Technology, Second Major: AI&Software**
