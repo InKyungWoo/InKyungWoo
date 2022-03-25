@@ -1,4 +1,5 @@
-* May every moment bring inspiration to my life *
+\### Helloooooo :)
+*✨ May every moment bring inspiration to my life ✨*
 
 <!--
 **InKyungWoo/InKyungWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 **Major: Global Business & Technology, Second Major: AI&Software**
+
+
