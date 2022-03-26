@@ -1,6 +1,6 @@
 ### Helloooooo :)
 
-*✨ May every moment bring inspiration to my life ✨*
+*✨ May every moment bring inspiration to my life ✨* <br>
 
 <!--
 **InKyungWoo/InKyungWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-**Major: Global Business & Technology, Second Major: AI&Software, HUFS**
+**Major: Global Business & Technology, HUFS <br> Second Major: AI&Software** <br>
 
-Bachelor of Business Administration, Accounting
+> Bachelor of Business Administration, Accounting
 
 
