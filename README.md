@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=header&text=)
+
+
 ### Helloooooo :)
 
 *✨ May every moment bring inspiration to my life ✨* <br>
@@ -22,4 +25,11 @@ Here are some ideas to get you started:
 
 > Bachelor of Business Administration, Accounting
 
+<br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InkyungWoo&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InkyungWoo&repo=Inkyung.html&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=footer)
