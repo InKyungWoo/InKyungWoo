@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=header&text=Hellooooo:>)
-*✨ May every moment bring inspiration to my life ✨* <br>
+## *✨ May every moment bring inspiration to my life ✨* <br>
 
 <!--
 **InKyungWoo/InKyungWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
