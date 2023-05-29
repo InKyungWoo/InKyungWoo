@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InkyungWoo&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InkyungWoo&repo=Inkyung.html&theme=nightowl)](https://github.com/InKyungWoo/Inkyung.html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InkyungWoo&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InkyungWoo&repo=Inkyung.html&theme=nightowl)](https://github.com/InKyungWoo/Inkyung.html)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=footer)
