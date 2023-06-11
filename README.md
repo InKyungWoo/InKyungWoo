@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **Major: Global Business & Technology, HUFS <br> Second Major: AI&Software** <br>
 
-<span style="color:red">Bachelor of Business Administration, Accounting</span>
+> Bachelor of Business Administration, Accounting
 
 <br>
 <div align="left">
