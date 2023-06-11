@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- adult;Pornography Use;image classification method;Computer Vision;Image Processing;Pattern Recognition and Data Mining (https://figshare.com/articles/dataset/Adult_content_dataset/13456484 )
+
+```kotlin
+1) 선정적 이미지 
+    - adult;Pornography Use;image classification method;Computer Vision;Image Processing;Pattern Recognition and Data Mining (https://figshare.com/articles/dataset/Adult_content_dataset/13456484 )
     - 비관계 이미지 일부 : Gokhan Tanisik, Cemil Zalluhoglu, Nazli Ikizler-Cinbis, Facial Descriptors for Human Interaction Recognition In Still Images, Pattern Recognition Letters, 2016, ISSN 0167-8655 (https://vision.cs.hacettepe.edu.tr/interaction_images/)
+
+2) 폭력적 이미지
+    - 구글링
+    - 폭력 이미지 일부 : ⚠️(직접적인 살해 이미지가 있는 사이트로, 확인에 유의해 주세요)  https://www.documentingreality.com/forum/f10/
+```
+
 
 **Major: Global Business & Technology, HUFS <br> Second Major: AI&Software** <br>
 
