@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- adult;Pornography Use;image classification method;Computer Vision;Image Processing;Pattern Recognition and Data Mining (https://figshare.com/articles/dataset/Adult_content_dataset/13456484 )
+    - 비관계 이미지 일부 : Gokhan Tanisik, Cemil Zalluhoglu, Nazli Ikizler-Cinbis, Facial Descriptors for Human Interaction Recognition In Still Images, Pattern Recognition Letters, 2016, ISSN 0167-8655 (https://vision.cs.hacettepe.edu.tr/interaction_images/)
 
 **Major: Global Business & Technology, HUFS <br> Second Major: AI&Software** <br>
 
