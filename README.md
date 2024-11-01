@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 <div align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InkyungWoo&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InkyungWoo&repo=Inkyung.html&theme=nightowl)](https://github.com/InKyungWoo/Inkyung.html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InkyungWoo&layout=compact&theme=material-palenight&exclude_repo=todo_list,Likelion-11th,ttproject,HUFS-Data-Analysis-Course,DataStructure-Algorithm,Capstone,CodeLion,tech-interview-for-developer)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InkyungWoo&repo=Inkyung.html&theme=nightowl)](https://github.com/InKyungWoo/Inkyung.html)
 
 </div>
 
